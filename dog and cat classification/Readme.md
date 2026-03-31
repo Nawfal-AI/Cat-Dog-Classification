@@ -56,7 +56,7 @@ dogcat.ipynb
 
 - Dataset consists of labeled images of dogs and cats
 - Images are preprocessed (resized, normalized, etc.)
-- (Optional: Mention source if you used one, e.g., Kaggle Dogs vs Cats)
+- Dataset source: https://www.kaggle.com/c/dogs-vs-cats/data
 
 ## ⚙️ Features
 
